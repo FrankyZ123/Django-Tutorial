@@ -97,7 +97,6 @@ pandocfilters==1.4.2
 paramz==0.9.5
 parsel==1.5.2
 parso==0.5.2
-pdftotext==2.1.2
 pexpect==4.7.0
 phik==0.9.8
 pickleshare==0.7.5
