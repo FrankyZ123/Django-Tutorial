@@ -60,6 +60,7 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
+            os.path.join(BASE_DIR),
             'blog/templates/blog',
             'users/templates/users'
         ],
